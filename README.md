@@ -8,5 +8,5 @@ This demo helped me learn about what REST is and how to use it, how it relates t
 
 ## Video showing how this demo works
 
-
+![](final-product-demo.mp4)
 
